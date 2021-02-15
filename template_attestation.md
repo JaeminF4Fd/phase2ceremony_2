@@ -1,4 +1,4 @@
-# Hermez First Phase 2 ceremony attestation
+# Hermez First Phase 2 ceremony attestation  (Second bootstrap)
 
 **Contribution Number:**    yyyy
 
